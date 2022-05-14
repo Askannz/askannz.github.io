@@ -22,7 +22,7 @@ timezone: Australia/Melbourne
 # ↓ --------------------------
 
 title: Gazoche's blog
-tagline:
+tagline: Random thoughts and articles
 description: Random thoughts and articles
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Robin Lange
-  email: example@doamin.com             # change to your email address
+  email: placeholder@gmail.com
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/Gazoche1      # change to your twitter homepage
