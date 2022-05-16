@@ -110,7 +110,7 @@ python -m my_module.subfolder_A.script_A
 
 In both the examples above, our target script is also itself a module, and therefore it's possible to import stuff from it. However, when a module is imported, everything in its global scope is executed, which can have unintende consequences. In other words, if your `script.py` looks like this:
 
-```
+```python
 def my_other_function():
     print("Hello from my_other_function")
     
@@ -120,7 +120,7 @@ print("Hello")
 Then importing `from script import my_other_function` in another file will also execute the `print("Hello")` statement.
 This is why Python script traditionally wrap their code in a `if __name__ == "__main__":` statement:
 
-```
+```python
 def my_other_function():
     print("Hello from my_other_function")
     

@@ -17,9 +17,9 @@ On Linux, if you want to display a FPS counter in your application, there are se
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
 .tg .tg-9wq8{border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-vndr{background-color:#32cb00;border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-97l3{background-color:#ffc702;border-color:inherit;text-align:center;vertical-align:middle}
-.tg .tg-bt41{background-color:#fd6864;border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-vndr{background-color:#186300;border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-97l3{background-color:#a88300;border-color:inherit;text-align:center;vertical-align:middle}
+.tg .tg-bt41{background-color:#9b0400;border-color:inherit;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
   <tr>
