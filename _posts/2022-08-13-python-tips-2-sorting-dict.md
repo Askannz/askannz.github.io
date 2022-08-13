@@ -1,5 +1,5 @@
 ---
-title: Random Python tips \#2: sorting lists into buckets with defaultdict
+title: `Random Python tips #2: sorting lists into buckets with defaultdict`
 date: 2022-08-13 22:44 +1100
 categories: [Python]
 Tags: [python]
