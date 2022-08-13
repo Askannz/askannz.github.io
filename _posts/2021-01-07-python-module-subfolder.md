@@ -1,5 +1,5 @@
 ---
-title: Random Python tips #1: Importing from a parent or sibling folder
+title: 'Random Python tips #1: Importing from a parent or sibling folder'
 date: 2021-01-07 22:44 +1100
 categories: [Python]
 Tags: [python, modules, subfolders, import]
