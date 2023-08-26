@@ -55,7 +55,7 @@ Still doesn't work, but the error is different. You can try running `script.py` 
 
 # The solution
 
-Every Python programmer has been confronted to that issue. Curiously, trying to Google "python import from parent folder" will almost always point you toward weird hacks that involve modifying `sys.path`, setting a `PYTHONPATH` variable, or even using pip to link the current directory as a development package. There is a much more idiomatic and (in my opinion) much more practical solution.
+Every Python programmer has been confronted to that issue. Curiously, Googling "python import from parent folder" will almost always point you toward weird hacks that involve modifying `sys.path`, setting a `PYTHONPATH` variable, or even using pip to link the current directory as a development package. There is a much more idiomatic and (in my opinion) much more practical solution.
 
 Simply put all your code in a subfolder (which we'll call `my_module` because that's actually what it is), like so:
 
@@ -108,7 +108,7 @@ python -m my_module.subfolder_A.script_A
 
 ## The __main__ guard
 
-In both the examples above, our target script is also itself a module, and therefore it's possible to import stuff from it. However, when a module is imported, everything in its global scope is executed, which can have unintende consequences. In other words, if your `script.py` looks like this:
+In both the examples above, our target script is also itself a module, and therefore it's possible to import stuff from it. However, when a module is imported, everything in its global scope is executed, which can have unintended consequences. In other words, if your `script.py` looks like this:
 
 ```python
 def my_other_function():
@@ -118,7 +118,7 @@ print("Hello")
 ```
 
 Then importing `from script import my_other_function` in another file will also execute the `print("Hello")` statement.
-This is why Python script traditionally wrap their code in a `if __name__ == "__main__":` statement:
+This is why Python scripts traditionally wrap their code in a `if __name__ == "__main__":` statement:
 
 ```python
 def my_other_function():
@@ -134,5 +134,3 @@ This way, `print("Hello")` will only execute if the module is ran directly with 
 ## Run a whole folder as a script
 
 This is a small but neat feature. In the first example above, if you rename `script.py` as `__main__.py`, you will be able to call `subfolder` directly as if it was an executable script itself: `python -m my_module.subfolder`. It can be pretty useful to get rid of superflous submodules and shorten the invocation path.
-
-That's it, I hope this blog post was useful to you. I wrote it after being frustrated at the module system of Python for so long, and realizing that the solution was much simpler that what Google would suggest.
