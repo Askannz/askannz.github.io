@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi! My name is Robin Lange, I am a French-born / New-Caledonia-raised / Melbourne-based developer currently working as an MLOps engineer at [See-Mode Technologies](https://www.see-mode.com/). Opinions published on this blog are my own.
