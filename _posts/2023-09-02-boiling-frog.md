@@ -300,7 +300,7 @@ _Note: the dates of past events are only approximate. The other half of the time
       <div class="thermometer_full_fill"></div>
     </div>
     <div class="entry_text">
-    <b>2020:</b> Google rolls out hardware-based device integrity checks, crippling alternative ROMs (<a href="https://www.androidpolice.com/2020/06/29/googles-dreaded-safetynet-hardware-check-has-been-spotted-in-the-wild/">link</a>)
+    <b>2020:</b> Google rolls out hardware-based device integrity checks on Android, crippling alternative ROMs (<a href="https://www.androidpolice.com/2020/06/29/googles-dreaded-safetynet-hardware-check-has-been-spotted-in-the-wild/">link</a>)
     </div>
   </div>
 
