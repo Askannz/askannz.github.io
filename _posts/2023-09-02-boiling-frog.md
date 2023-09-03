@@ -7,7 +7,7 @@ hidden: true
 popup-turned-on: false
 ---
 
-_Note: the dates of past events are only approximate. The other half of the timeline is wildly speculative and hypothetical, as I don't pretend to know the future._
+_Note: the dates of past events are only approximate. The other half of the timeline is wildly speculative and hypothetical._
 
 <style type="text/css">
 
