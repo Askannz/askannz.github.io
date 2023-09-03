@@ -124,7 +124,7 @@ _Note: past dates in the timeline below are only approximate. Future ones are wi
       <div class="thermometer_empty_fill"></div>
     </div>
     <div class="entry_text">
-    <b>2032:</b> Chrome drops official support for Linux, citing the impossibility to satisfy WEI checks and its subsequent shrinking relevance as a desktop OS.
+    <b>2032:</b> Chrome drops official support for Linux, citing the impossibility to satisfy Web Environment Integrity (WEI) checks and its subsequent shrinking relevance as a desktop OS.
     </div>
   </div>
 
