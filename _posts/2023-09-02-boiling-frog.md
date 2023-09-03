@@ -234,7 +234,7 @@ _Note: past dates in the timeline below are only approximate. Future ones are wi
       <div class="thermometer_full_fill"></div>
     </div>
     <div class="entry_text">
-    <b>2023:</b> France proposes the SREN bill, which would mandate browsers to enforce a government-provided black list (<a href="https://www.article19.org/resources/france-proposed-internet-bill-threatens-online-speech/">link</a>)
+    <b>2023:</b> France proposes the SREN bill, which would mandate browsers to enforce a government-provided blocklist (<a href="https://www.article19.org/resources/france-proposed-internet-bill-threatens-online-speech/">link</a>)
     </div>
   </div>
 
