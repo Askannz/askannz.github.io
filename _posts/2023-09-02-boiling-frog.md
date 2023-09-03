@@ -7,7 +7,7 @@ hidden: true
 popup-turned-on: false
 ---
 
-_Note: past dates in the timeline below are only approximate. Future ones are wildly speculative._
+_Note: the dates of past events are only approximate. The other half of the timeline is wildly speculative and hypothetical, as I don't pretend to know the future._
 
 <style type="text/css">
 
@@ -325,7 +325,7 @@ _Note: past dates in the timeline below are only approximate. Future ones are wi
     <b>2017:</b> Chrome's Widevine DRM can no longer be disabled (<a href="https://news.ycombinator.com/item?id=13514415">link</a>)
     </div>
   </div>
-  
+
   <div class="entry">
     <div class="thermometer_stretch">
       <div class="thermometer_full_fill"></div>
