@@ -31,14 +31,11 @@ url: ''
 github:
   username: Askannz             # change to your github username
 
-twitter:
-  username: Gazoche1            # change to your twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Robin Lange
-  email: placeholder@gmail.com
+  email: robin.langenc@gmail.com
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/Askannz       # change to your github homepage
