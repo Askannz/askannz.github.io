@@ -157,7 +157,7 @@ _Note: past dates in the timeline below are only approximate. Future ones are wi
       <div class="thermometer_empty_fill"></div>
     </div>
     <div class="entry_text">
-    <b>2029:</b> Windows 14 Home makes "S mode" permanent, preventing execution of third-party apps. Enterprise customers who depend on legacy programs can restore the feature through a subscription.
+    <b>2029:</b> Windows 14 Home makes "S mode" permanent, preventing execution of third-party apps. Enterprise customers who depend on legacy programs can restore the feature through a paid subscription.
     </div>
   </div>
 
