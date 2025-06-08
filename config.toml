@@ -1,0 +1,32 @@
+title = "Gazoche"
+
+# The URL the site will be built for
+base_url = "https://gazoche.xyz"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "anemone"
+
+default_language = "en"
+
+[languages.fr]
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+[extra]
+
+header_nav = [
+  { url = "/", name_en = "/  home  /", name_fr = "/  accueil  /" },
+  { url = "/about", name_en = "/  about  /", name_fr = "/  présentation  /" },
+  { url = "/projects", name_en = "/  projects  /", name_fr = "/  projets  /" },
+  
+  { url = "http://127.0.0.1:1111/fr", name_en = "/  français  /", name_fr = "/  français  /" },
+  { url = "http://127.0.0.1:1111/", name_en = "/  english  /", name_fr = "/  english  /" }
+]
