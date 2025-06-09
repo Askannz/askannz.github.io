@@ -4,7 +4,7 @@ title = "About me"
 
 My name is Robin Lange, I go online by Gazoche or Askannz.
 
-I was born in France but lived most of my life overseas, first in [New Caledonia](https://en.wikipedia.org/wiki/New_Caledonia) then Singapore and Australia. I now live on the southern French Mediterranean coast, where I work as a Data Engineer for the Amadeus IT Group (as a full-time subcontractor).
+I was born in France but lived most of my life overseas, first in [New Caledonia](https://en.wikipedia.org/wiki/New_Caledonia) then 7 years Singapore and Australia. I now live on the southern French Mediterranean coast, where I work as a Data Engineer for the Amadeus IT Group (as a full-time subcontractor).
 
 My previous work was at the Singapore-based startup [See-Mode Technologies](https://www.see-mode.com/), specialized in AI analysis of medical images. I was present at the company's inception (as the first employee) and worked there for almost 7 years helping to build it from the ground up. See-Mode has recently [been acquired](https://www.radnet.com/about-radnet/news/radnet-inc-acquires-see-mode-technologies-for-innovation-in-ai-powered-ultrasound-diagnostics) by the large US Radiology chain RadNet. 
 
@@ -27,13 +27,15 @@ I also have an interest in low-level systems programming and OS development (che
 **Human languages:** french (native tongue), english (fluent)
 
 
-### Contact
+### Contact & links
 
 * **E-mail:** [robin.langenc@gmail.com](mailto:robin.langenc@gmail.com)
 
 * **Mastodon:**  [@Gazoche@mastodon.au](https://mastodon.au/@Gazoche)
 
-Always open to new work opportunities.
+* **GitHub:**  [Askannz](https://github.com/Askannz)
+
+Always open to new work opportunities :)
 
 
 ### CV
