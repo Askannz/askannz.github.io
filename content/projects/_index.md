@@ -8,7 +8,7 @@ title = "Personal projects"
 
 By far my biggest project, a full OS written from scratch in Rust. Has a fully graphical interface, PCI driver, QEMU drivers for mouse, keyboard, network and GPU, and a few custom-made applications including a basic web browser and a Python terminal. I tried to do something new with the kernel architecture: instead of running inside of a virtual address space like on most OSes, applications are compiled to WASM and run within an embedded WASM interpreter. See the README for more details.
 
-![Munal OS screenshot](munal-os.png)
+![Munal OS screenshot](munal-os.png "The Munal OS desktop with a few apps open")
 
 
 ## optimus-manager
@@ -36,5 +36,5 @@ This is a little toy application to open and read DICOM images. DICOM is a stand
 
 OxyDICOM supports a subset of DICOM image encodings and is capable of extracting and displaying the tags. It is written in Rust with the [iced](https://github.com/iced-rs/iced) toolkit (or, well, an early version of it. That toolkit has grown so much in popularity I suspect it looks a lot different nowadays).
 
-![OxyDICOM screenshot 1](oxydicom-1.png)
-![OxyDICOM screenshot 2](oxydicom-2.png)
+![OxyDICOM screenshot 1](oxydicom-1.png "OxyDICOM decoding the DICOM's embedded image")
+![OxyDICOM screenshot 2](oxydicom-2.png "OxyDICOM showing the extracted DICOM's tag metadata")
