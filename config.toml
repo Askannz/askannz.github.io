@@ -23,10 +23,9 @@ highlight_code = true
 [extra]
 
 header_nav = [
-  { url = "/", name_en = "/  home  /", name_fr = "/  accueil  /" },
-  { url = "/about", name_en = "/  about  /", name_fr = "/  présentation  /" },
+  { url = "/", name_en = "/  about  /", name_fr = "/  présentation  /" },
   { url = "/projects", name_en = "/  projects  /", name_fr = "/  projets  /" },
   
-  { url = "http://127.0.0.1:1111/fr", name_en = "/  français  /", name_fr = "/  français  /" },
-  { url = "http://127.0.0.1:1111/", name_en = "/  english  /", name_fr = "/  english  /" }
+  { url = "https://gazoche.xyz/fr/", name_en = "/  français  /", name_fr = "/  français  /" },
+  { url = "https://gazoche.xyz/", name_en = "/  english  /", name_fr = "/  english  /" }
 ]
