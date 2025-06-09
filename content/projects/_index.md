@@ -42,3 +42,9 @@ OxyDICOM supports a subset of DICOM image encodings and is capable of extracting
 
 ![OxyDICOM screenshot 1](oxydicom-1.png "OxyDICOM displaying the US scan image embdedded into the DICOM")
 ![OxyDICOM screenshot 2](oxydicom-2.png "OxyDICOM showing the extracted DICOM tag metadata tree")
+
+## Nag
+
+[https://github.com/Askannz/nag](https://github.com/Askannz/nag)
+
+A Telegram bot that can send reminder at a given date or frequency given in natural language. For example, "every day at 3pm", "on March 13th", etc.

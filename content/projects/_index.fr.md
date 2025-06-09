@@ -46,3 +46,10 @@ OxyDICOM est capable de décoder une partie des formats d'images supportés par 
 
 ![Capture d'écran de OxyDICOM](oxydicom-1.png "OxyDICOM affichant l'échographie contenue dans un DICOM")
 ![Capture d'écran de OxyDICOM](oxydicom-2.png "OxyDICOM montrant l'arbre de métadonnées extrait du DICOM")
+
+
+## Nag
+
+[https://github.com/Askannz/nag](https://github.com/Askannz/nag)
+
+Un bot Telegram capable d'enregistrer des rappels à une date ou une fréquence indiquée en langage naturel. Par example, "every day at 3pm", "on March 13th", etc.
