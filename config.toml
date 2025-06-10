@@ -14,6 +14,7 @@ theme = "anemone"
 default_language = "en"
 
 [languages.fr]
+title = "anemone"
 
 [markdown]
 # Whether to do syntax highlighting
@@ -26,6 +27,6 @@ header_nav = [
   { url = "/", name_en = "/  about  /", name_fr = "/  présentation  /" },
   { url = "/projects", name_en = "/  projects  /", name_fr = "/  projets  /" },
   
-  { url = "https://gazoche.xyz/fr/", name_en = "/  français  /", name_fr = "/  français  /" },
-  { url = "https://gazoche.xyz/", name_en = "/  english  /", name_fr = "/  english  /" }
+  { url = "/fr/", name_en = "/  français  /", name_fr = "/  français  /", skip_lang = true },
+  { url = "/", name_en = "/  english  /", name_fr = "/  english  /", skip_lang = true }
 ]
