@@ -14,7 +14,6 @@ theme = "anemone"
 default_language = "en"
 
 [languages.fr]
-title = "anemone"
 
 [markdown]
 # Whether to do syntax highlighting
