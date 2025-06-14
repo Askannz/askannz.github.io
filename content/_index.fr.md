@@ -6,13 +6,13 @@ title = "Présentation"
 
 Je m'appelle Robin Lange (Gazoche ou Askannz sur le net).
 
-Je suis né en France mais ai passé la plus grande partie de ma vie à l'étranger ou en Outre-Mer, d'abord en Nouvelle-Calédonie puis 7 ans à Singapour et en Australie. Aujourd'hui je vis de nouveau en France sur la Côte d'Azur, où je travaille comme Data Engineer pour le groupe Amadeus (comme sous-traitant à temps plein).
+Je suis né en France métropolitaine mais ai passé la plus grande partie de ma vie à l'étranger ou en Outre-Mer, d'abord en Nouvelle-Calédonie puis 7 ans à Singapour et en Australie. Aujourd'hui je vis de nouveau en France sur la Côte d'Azur, où je travaille comme Data Engineer pour le groupe Amadeus (en tant que sous-traitant à temps plein).
 
 Mon poste précédent était dans une startup basée à Singapour appelée [See-Mode Technologies](https://www.see-mode.com/), spécialisée dans l'analyse automatisée d'images médicales par IA. J'y ai travaillé presque 7 ans, depuis la création de la compagnie (j'étais le premier employé) que j'ai aidée à construire en partant de zéro. See-Mode a été récemment [rachetée](https://www.radnet.com/about-radnet/news/radnet-inc-acquires-see-mode-technologies-for-innovation-in-ai-powered-ultrasound-diagnostics) par RadNet, une grande chaîne de radiologie basée aux États-Unis.
 
 ## Compétences
 
-Bien que mon expérience profesionnelle récente tourne largement autour du data engineering et du machine learning, j'ai quelques autres compétences.
+Bien que mon expérience profesionnelle récente tourne largement autour du data engineering et du machine learning, j'ai quelques compétences dans d'autres domaine.
 
 Ce que je sais faire:
 * De la programmation backend en Python

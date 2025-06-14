@@ -4,7 +4,9 @@ title = "Projets personnels"
 
 ## Munal OS
 
-[https://github.com/Askannz/munal-os](https://github.com/Askannz/munal-os)
+[https://github.com/Askannz/munal-os](https://github.com/Askannz/munal-os) (612 ⭐)
+
+**Hacker News:** [https://news.ycombinator.com/item?id=44226879](https://news.ycombinator.com/item?id=44226879)
 
 De loin mon plus gros projet, un système d'exploitation écrit de zéro en Rust.
 
@@ -17,7 +19,7 @@ Pour l'architecture du kernel j'ai expérimenté avec une nouvelle approche: au 
 
 ## optimus-manager
 
-[https://github.com/Askannz/optimus-manager](https://github.com/Askannz/optimus-manager)
+[https://github.com/Askannz/optimus-manager](https://github.com/Askannz/optimus-manager) (2.4k ⭐)
 
 Il s'agit d'un utilitaire en ligne de commande que j'avais écrit pour résoudre un problème spécifique: certains ordinateurs portables (surtout les modèles "gamings") possèdent deux cartes graphiques, une petite pour l'utilisation de bureau normale et une grosse pour les appliations lourdes comme les jeux.
 
@@ -30,7 +32,7 @@ Je ne m'en occupe plus aujourd'hui (je n'ai plus le matériel pour le tester cor
 
 ## msi-perkeyrgb
 
-[https://github.com/Askannz/msi-perkeyrgb](https://github.com/Askannz/msi-perkeyrgb)
+[https://github.com/Askannz/msi-perkeyrgb](https://github.com/Askannz/msi-perkeyrgb) (217 ⭐)
 
 Un projet de vacances dont le but était de faire un reverse-engineering du protocole qui permet de contrôler l'éclairage RGB du clavier d'un PC portable MSI. Il a fallu inspecter le traffic USB via l'application Wireshark, analyser le traffic, et faire le détective pour comprendre quelles séquences correspondaient à quels effets de lumière.
 
@@ -42,7 +44,7 @@ Une application capable de lire des images au format DICOM.
 
 DICOM est un format de données utilisé dans le domaine médical, auquel j'ai été beaucoup confronté lorsque je travaillais à See-Mode. Il sert à stocker des images et vidéos dans un format standard et accompagné de métadonnées (comme le nom du patient, de la procédure, etc).
 
-OxyDICOM est capable de décoder une partie des formats d'images supportés par la spécification DICOM, ainsi que d'extraire et d'afficher l'arbre de métadonnées (les "DICOM tags"). L'application est écrite en Rust et utilise le toolkit [iced](https://github.com/iced-rs/iced) (qui a dû bien évoluer depuis vu son explosion en popularité).
+OxyDICOM est capable de décoder une partie des formats d'images supportés par la spécification DICOM, ainsi que d'extraire et d'afficher l'arbre de métadonnées (les "DICOM tags"). L'application est écrite en Rust et utilise le toolkit [iced](https://github.com/iced-rs/iced) (enfin, une version de ce toolkit qui doit être un peu datée maintenant).
 
 ![Capture d'écran de OxyDICOM](oxydicom-1.png "OxyDICOM affichant l'échographie contenue dans un DICOM")
 ![Capture d'écran de OxyDICOM](oxydicom-2.png "OxyDICOM montrant l'arbre de métadonnées extrait du DICOM")

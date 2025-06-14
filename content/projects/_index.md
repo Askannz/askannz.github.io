@@ -4,7 +4,9 @@ title = "Personal projects"
 
 ## Munal OS
 
-[https://github.com/Askannz/munal-os](https://github.com/Askannz/munal-os)
+[https://github.com/Askannz/munal-os](https://github.com/Askannz/munal-os) (612 ⭐)
+
+**Hacker News:** [https://news.ycombinator.com/item?id=44226879](https://news.ycombinator.com/item?id=44226879)
 
 By far my biggest project, a full OS written from scratch in Rust. Has a fully graphical interface and window manager, PCI driver, QEMU drivers for mouse, keyboard, network and GPU, and a few custom-made applications including a basic web browser and a Python terminal.
 
@@ -15,7 +17,7 @@ I tried to do something new with the kernel architecture: instead of running ins
 
 ## optimus-manager
 
-[https://github.com/Askannz/optimus-manager](https://github.com/Askannz/optimus-manager)
+[https://github.com/Askannz/optimus-manager](https://github.com/Askannz/optimus-manager) (2.4k ⭐)
 
 This is a Python CLI utility I wrote to solve a very specific problem: for power management reasons, some laptops (mostly gaming ones) have two GPUs, a small one for lightweight desktop usage and a large one for heavy applications such as games. Until recently this dual-GPU config was very poorly supported by Linux distributions, so this Python tool aims at providing easy commands for switching the active GPU or turn the big one off to save power.
 
@@ -26,7 +28,7 @@ I don't maintain it anymore (due to lacking a recent dual-GPU laptop), so I have
 
 ## msi-perkeyrgb
 
-[https://github.com/Askannz/msi-perkeyrgb](https://github.com/Askannz/msi-perkeyrgb)
+[https://github.com/Askannz/msi-perkeyrgb](https://github.com/Askannz/msi-perkeyrgb) (217 ⭐)
 
 This was a fun holiday project aiming to reverse-engineer the protocol that controls the RGB lighting of keyboards on an MSI laptop. It involved peeking at USB traffic using Wireshark, analyzing packet data and playing detective to figure out which pattern did what and how to toggle various lighting effects.
 
@@ -38,7 +40,7 @@ This is a little application to open and read DICOM images.
 
 DICOM is a standardized data format for medical applications, which I have become very acquainted with during my time at See-Mode Technologies. It can store images and videos in a variety of encodings, and also stores tables of metadata ("DICOM tags") for patient information and the like.
 
-OxyDICOM supports a subset of DICOM image encodings and is capable of extracting and displaying the tags. It is written in Rust with the [iced](https://github.com/iced-rs/iced) toolkit (or, well, an early version of it. That toolkit has grown so much in popularity I suspect it looks a lot different nowadays).
+OxyDICOM supports a subset of DICOM image encodings and is capable of extracting and displaying the tags. It is written in Rust with the [iced](https://github.com/iced-rs/iced) toolkit (or, well, an early version of it).
 
 ![OxyDICOM screenshot 1](oxydicom-1.png "OxyDICOM displaying the US scan image embdedded into the DICOM")
 ![OxyDICOM screenshot 2](oxydicom-2.png "OxyDICOM showing the extracted DICOM tag metadata tree")
