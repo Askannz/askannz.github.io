@@ -12,7 +12,7 @@ Mon poste précédent était dans une startup basée à Singapour appelée [See-
 
 ## Compétences
 
-Bien que mon expérience profesionnelle récente tourne largement autour du data engineering et du machine learning, j'ai quelques compétences dans d'autres domaine.
+Bien que mon expérience profesionnelle récente tourne largement autour du data engineering et du machine learning, j'ai quelques compétences dans d'autres domaines.
 
 Ce que je sais faire:
 * De la programmation backend en Python
