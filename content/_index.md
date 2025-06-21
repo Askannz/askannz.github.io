@@ -20,7 +20,8 @@ What I can do:
 * Linux sysadmin things
 * Spark and Databricks
 * PostgreSQL, MongoDB
-* Some data scientist skills (Jupyter, Pandas, Plotly and the like)
+* Live dashboards in Databricks or with Grafana
+* Data exploration and visualization (Jupyter, Pandas, Plotly and the like)
 
 I also have an interest in low-level systems programming and OS development (checkout my [projects page](/projects)). I'm pretty flexible with my skills generally, and can get up to speed rapidly on new technologies.
 

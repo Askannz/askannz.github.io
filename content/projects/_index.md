@@ -4,7 +4,7 @@ title = "Personal projects"
 
 ## Munal OS
 
-[https://github.com/Askannz/munal-os](https://github.com/Askannz/munal-os) (612 ⭐)
+[https://github.com/Askannz/munal-os](https://github.com/Askannz/munal-os) (691 ⭐)
 
 **Hacker News:** [https://news.ycombinator.com/item?id=44226879](https://news.ycombinator.com/item?id=44226879)
 

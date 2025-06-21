@@ -4,9 +4,9 @@ title = "Projets personnels"
 
 ## Munal OS
 
-[https://github.com/Askannz/munal-os](https://github.com/Askannz/munal-os) (612 ⭐)
+[https://github.com/Askannz/munal-os](https://github.com/Askannz/munal-os) (691 ⭐)
 
-**Hacker News:** [https://news.ycombinator.com/item?id=44226879](https://news.ycombinator.com/item?id=44226879)
+**Post Hacker News:** [https://news.ycombinator.com/item?id=44226879](https://news.ycombinator.com/item?id=44226879)
 
 De loin mon plus gros projet, un système d'exploitation écrit de zéro en Rust.
 

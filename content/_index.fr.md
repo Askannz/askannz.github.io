@@ -20,7 +20,8 @@ Ce que je sais faire:
 * Du sysadmin Linux
 * Spark et Databricks
 * PostgreSQL, MongoDB
-* Quelques tâches de data scientist (Jupyter, Pandas, Plotly et compagnie)
+* Dashboards en temps réel dans Databricks ou avec Grafana
+* Exploration et visualisation de données (Jupyter, Pandas, Plotly et compagnie)
 
 Je suis aussi intéressé par la programmation bas niveau et le développment de systèmes d'exploitation (voir mes [projets perso](/fr/projects)). En général je suis très flexible sur mes compétences, et j'apprends rapidement en terrain nouveau.
 
