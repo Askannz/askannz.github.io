@@ -2,8 +2,6 @@
 title = "Personal projects"
 +++
 
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
 ## Munal OS
 
 <a class="github-button" href="https://github.com/Askannz/munal-os" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Askannz/munal-os on GitHub">Github stars</a>
