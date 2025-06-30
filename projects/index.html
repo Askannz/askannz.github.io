@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="robots" content="index, follow">
+        
+        <link rel="alternate" type="application/rss+xml" title="RSS" href="https://gazoche.xyz/rss.xml">
+        
+        <title>Gazoche</title>
+
+        <link rel="preload" href="https://gazoche.xyz/css/style.css" as="style">
+        <link rel="stylesheet" href="https://raw.githack.com/Speyll/suCSS/main/reset-min.css" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://raw.githack.com/Speyll/suCSS/main/suCSS-min.css" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://gazoche.xyz/css/style.css">
+        <link rel="stylesheet" href="https://gazoche.xyz/css/custom.css">
+
+        <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+        <!-- Add favicon with appropriate sizes -->
+        <link rel="icon" href="https:&#x2F;&#x2F;gazoche.xyz/favicon.ico">
+        
+    </head>
+    <body>
+        
+        
+        
+        
+        <nav id="nav-bar">
+            
+            
+            
+            
+            
+            
+            <a href="&#x2F;" class="">
+                
+                &#x2F;  about  &#x2F;
+            </a>
+            
+            
+            
+            
+            
+            
+            <a href="&#x2F;projects" class="">
+                
+                &#x2F;  projects  &#x2F;
+            </a>
+            
+            
+            
+            
+            
+            
+            <a href="&#x2F;fr&#x2F;" class="">
+                
+                &#x2F;  français  &#x2F;
+            </a>
+            
+            
+            
+            
+            
+            
+            <a href="&#x2F;" class="">
+                
+                &#x2F;  english  &#x2F;
+            </a>
+            
+
+            <div class="theme-toggle" id="theme-toggle" role="button" tabindex="0" aria-label="Toggle theme"
+                data-icon-base="https://gazoche.xyz/icons.svg"
+                data-icon-dark="#darkMode"
+                data-icon-light="#lightMode"
+                data-sound-src="https://gazoche.xyz/click.ogg">
+                <svg class="icon">
+                    <use id="theme-icon"></use>
+                </svg>
+            </div>
+        </nav>
+
+        <main>
+            
+<section class="content-section">
+    <h1>Personal projects</h1>
+    <h2 id="munal-os">Munal OS</h2>
+<p><a class="github-button" href="https://github.com/Askannz/munal-os" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Askannz/munal-os on GitHub">Github stars</a></p>
+<p><a href="https://github.com/Askannz/munal-os">https://github.com/Askannz/munal-os</a></p>
+<p><strong>Hacker News:</strong> <a href="https://news.ycombinator.com/item?id=44226879">https://news.ycombinator.com/item?id=44226879</a></p>
+<p>By far my biggest project, a full OS written from scratch in Rust. Has a fully graphical interface and window manager, PCI driver, QEMU drivers for mouse, keyboard, network and GPU, and a few custom-made applications including a basic web browser and a Python terminal.</p>
+<p>I tried to do something new with the kernel architecture: instead of running inside of a virtual address space like on most OSes, applications are compiled to WebAssembly and run within an embedded WASM interpreter. See the README for more details.</p>
+<p><img src="https://gazoche.xyz/projects/munal-os.png" alt="Munal OS screenshot" title="The Munal OS desktop with a few apps open" /></p>
+<h2 id="optimus-manager">optimus-manager</h2>
+<p><a class="github-button" href="https://github.com/Askannz/optimus-manager" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Askannz/optimus-manager on GitHub">Github stars</a></p>
+<p><a href="https://github.com/Askannz/optimus-manager">https://github.com/Askannz/optimus-manager</a></p>
+<p>This is a Python CLI utility I wrote to solve a very specific problem: for power management reasons, some laptops (mostly gaming ones) have two GPUs, a small one for lightweight desktop usage and a large one for heavy applications such as games. Until recently this dual-GPU config was very poorly supported by Linux distributions, so this Python tool aims at providing easy commands for switching the active GPU or turn the big one off to save power.</p>
+<p>I had originally written it for myself but decided to publish it as an <a href="https://aur.archlinux.org/packages/optimus-manager-git">Archlinux package</a> and it blew up in popularity, climbing to over 2000 stars on Github over the years (<a href="https://github.com/Shatur/optimus-manager-qt">someone even made a 3rd-party GUI for it</a>). It has gone through multiple major versions since, to add features and try to improve stability and compatibility.</p>
+<p>I don't maintain it anymore (due to lacking a recent dual-GPU laptop), so I have handed that project over to someone else to continue development (shootout to <a href="https://github.com/es20490446e">es20490446e</a>).</p>
+<h2 id="msi-perkeyrgb">msi-perkeyrgb</h2>
+<p><a class="github-button" href="https://github.com/Askannz/msi-perkeyrgb" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Askannz/msi-perkeyrgb on GitHub">Github stars</a></p>
+<p><a href="https://github.com/Askannz/msi-perkeyrgb">https://github.com/Askannz/msi-perkeyrgb</a></p>
+<p>This was a fun holiday project aiming to reverse-engineer the protocol that controls the RGB lighting of keyboards on an MSI laptop. It involved peeking at USB traffic using Wireshark, analyzing packet data and playing detective to figure out which pattern did what and how to toggle various lighting effects.</p>
+<h2 id="oxydicom">OxyDICOM</h2>
+<p><a href="https://github.com/Askannz/oxydicom">https://github.com/Askannz/oxydicom</a></p>
+<p>This is a little application to open and read DICOM images.</p>
+<p>DICOM is a standardized data format for medical applications, which I have become very acquainted with during my time at See-Mode Technologies. It can store images and videos in a variety of encodings, and also stores tables of metadata ("DICOM tags") for patient information and the like.</p>
+<p>OxyDICOM supports a subset of DICOM image encodings and is capable of extracting and displaying the tags. It is written in Rust with the <a href="https://github.com/iced-rs/iced">iced</a> toolkit (or, well, an early version of it).</p>
+<p><img src="https://gazoche.xyz/projects/oxydicom-1.png" alt="OxyDICOM screenshot 1" title="OxyDICOM displaying the US scan image embdedded into the DICOM" />
+<img src="https://gazoche.xyz/projects/oxydicom-2.png" alt="OxyDICOM screenshot 2" title="OxyDICOM showing the extracted DICOM tag metadata tree" /></p>
+<h2 id="nag">Nag</h2>
+<p><a href="https://github.com/Askannz/nag">https://github.com/Askannz/nag</a></p>
+<p>A Telegram bot that can send reminder at a given date or frequency given in natural language. For example, "every day at 3pm", "on March 13th", etc.</p>
+
+
+    <ul class="content-list">
+        
+        
+    </ul>
+
+    
+</section>
+
+        </main>
+
+        <footer>
+            <hr>
+<div id="footer-container">
+    <p>Made using <a target="_blank" rel="noopener noreferrer" href="https://github.com/Speyll/anemone">anemone</a> Zola theme</p>
+</div>
+
+        </footer>
+
+        <!-- Move JS to end of body and add defer -->
+        <script src="https://gazoche.xyz/js/script.js" defer></script>
+    </body>
+</html>
