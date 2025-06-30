@@ -2,9 +2,13 @@
 title = "Personal projects"
 +++
 
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 ## Munal OS
 
-[https://github.com/Askannz/munal-os](https://github.com/Askannz/munal-os) (691 ⭐)
+<a class="github-button" href="https://github.com/Askannz/munal-os" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Askannz/munal-os on GitHub">Github stars</a>
+
+[https://github.com/Askannz/munal-os](https://github.com/Askannz/munal-os)
 
 **Hacker News:** [https://news.ycombinator.com/item?id=44226879](https://news.ycombinator.com/item?id=44226879)
 
@@ -17,7 +21,9 @@ I tried to do something new with the kernel architecture: instead of running ins
 
 ## optimus-manager
 
-[https://github.com/Askannz/optimus-manager](https://github.com/Askannz/optimus-manager) (2.4k ⭐)
+<a class="github-button" href="https://github.com/Askannz/optimus-manager" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Askannz/optimus-manager on GitHub">Github stars</a>
+
+[https://github.com/Askannz/optimus-manager](https://github.com/Askannz/optimus-manager)
 
 This is a Python CLI utility I wrote to solve a very specific problem: for power management reasons, some laptops (mostly gaming ones) have two GPUs, a small one for lightweight desktop usage and a large one for heavy applications such as games. Until recently this dual-GPU config was very poorly supported by Linux distributions, so this Python tool aims at providing easy commands for switching the active GPU or turn the big one off to save power.
 
@@ -28,7 +34,9 @@ I don't maintain it anymore (due to lacking a recent dual-GPU laptop), so I have
 
 ## msi-perkeyrgb
 
-[https://github.com/Askannz/msi-perkeyrgb](https://github.com/Askannz/msi-perkeyrgb) (217 ⭐)
+<a class="github-button" href="https://github.com/Askannz/msi-perkeyrgb" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Askannz/msi-perkeyrgb on GitHub">Github stars</a>
+
+[https://github.com/Askannz/msi-perkeyrgb](https://github.com/Askannz/msi-perkeyrgb)
 
 This was a fun holiday project aiming to reverse-engineer the protocol that controls the RGB lighting of keyboards on an MSI laptop. It involved peeking at USB traffic using Wireshark, analyzing packet data and playing detective to figure out which pattern did what and how to toggle various lighting effects.
 

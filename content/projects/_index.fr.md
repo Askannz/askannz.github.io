@@ -2,9 +2,13 @@
 title = "Projets personnels"
 +++
 
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 ## Munal OS
 
-[https://github.com/Askannz/munal-os](https://github.com/Askannz/munal-os) (691 ⭐)
+<a class="github-button" href="https://github.com/Askannz/munal-os" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Askannz/munal-os on GitHub">Github stars</a>
+
+[https://github.com/Askannz/munal-os](https://github.com/Askannz/munal-os)
 
 **Post Hacker News:** [https://news.ycombinator.com/item?id=44226879](https://news.ycombinator.com/item?id=44226879)
 
@@ -19,7 +23,9 @@ Pour l'architecture du kernel j'ai expérimenté avec une nouvelle approche: au 
 
 ## optimus-manager
 
-[https://github.com/Askannz/optimus-manager](https://github.com/Askannz/optimus-manager) (2.4k ⭐)
+<a class="github-button" href="https://github.com/Askannz/optimus-manager" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Askannz/optimus-manager on GitHub">Github stars</a>
+
+[https://github.com/Askannz/optimus-manager](https://github.com/Askannz/optimus-manager)
 
 Il s'agit d'un utilitaire en ligne de commande que j'avais écrit pour résoudre un problème spécifique: certains ordinateurs portables (surtout les modèles "gamings") possèdent deux cartes graphiques, une petite pour l'utilisation de bureau normale et une grosse pour les appliations lourdes comme les jeux.
 
@@ -32,7 +38,9 @@ Je ne m'en occupe plus aujourd'hui (je n'ai plus le matériel pour le tester cor
 
 ## msi-perkeyrgb
 
-[https://github.com/Askannz/msi-perkeyrgb](https://github.com/Askannz/msi-perkeyrgb) (217 ⭐)
+<a class="github-button" href="https://github.com/Askannz/msi-perkeyrgb" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Askannz/msi-perkeyrgb on GitHub">Github stars</a>
+
+[https://github.com/Askannz/msi-perkeyrgb](https://github.com/Askannz/msi-perkeyrgb)
 
 Un projet de vacances dont le but était de faire un reverse-engineering du protocole qui permet de contrôler l'éclairage RGB du clavier d'un PC portable MSI. Il a fallu inspecter le traffic USB via l'application Wireshark, analyser le traffic, et faire le détective pour comprendre quelles séquences correspondaient à quels effets de lumière.
 
